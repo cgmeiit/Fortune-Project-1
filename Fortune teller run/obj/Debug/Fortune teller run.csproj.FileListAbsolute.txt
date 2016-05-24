@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller run\Fortune teller run\bin\Debug\Fortune teller run.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller run\Fortune teller run\obj\Debug\Fortune teller run.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller run\Fortune teller run\bin\Debug\Fortune teller run.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller run\Fortune teller run\bin\Debug\Fortune teller run.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller run\Fortune teller run\obj\Debug\Fortune teller run.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller run\Fortune teller run\obj\Debug\Fortune teller run.pdb
